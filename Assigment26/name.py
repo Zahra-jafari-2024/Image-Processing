@@ -23,7 +23,7 @@ first_name[180:200,300:390] = 0
 first_name[180:360,350:390] = 0
 
 
-cv2.imwrite('first_name.jpg', first_name)
+cv2.imwrite('result\first_name.jpg', first_name)
 
 cv2.imshow('first_name', first_name)
 cv2.waitKey()

@@ -20,8 +20,8 @@ for i in range(height):
 #imgs =cv2.resize(imgs,(400, 400))
 cv2.imshow("output", imgs1)
 cv2.waitKey()
-cv2.imwrite("result\2.jpg",imgs1)
+cv2.imwrite("result\invert2.jpg",imgs1)
 
 cv2.imshow("output", imgs)
+cv2.imwrite("result\invert1.jpg",imgs)
 cv2.waitKey()
-cv2.imwrite("result\1.jpg",imgs)
