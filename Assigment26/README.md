@@ -3,7 +3,7 @@
 
 # Assignment 26
 # **chess-Bord**
-![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/chess-Bord.jpg)
+![screen shot](https://github.com/Zahra-jafari-2024/Image-Processing/blob/main/Assigment26/result/chess.jpg)
 # **dark and light color**
 ![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/1.jpg)
 # **Rotate the image 180**
