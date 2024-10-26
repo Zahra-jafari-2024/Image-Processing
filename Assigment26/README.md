@@ -5,12 +5,13 @@
 # **chess-Bord**
 ![screen shot](https://github.com/Zahra-jafari-2024/Image-Processing/blob/main/Assigment26/result/chess.jpg)
 # **dark and light color**
-![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/1.jpg)
+![screen shot](https://github.com/Zahra-jafari-2024/Image-Processing/blob/main/Assigment26/result/invert1.jpg) 
+![screen shot](https://github.com/Zahra-jafari-2024/Image-Processing/blob/main/Assigment26/result/invert2.jpg) 
 # **Rotate the image 180**
-![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/happy.jpg)
+![screen shot](https://github.com/Zahra-jafari-2024/Image-Processing/blob/main/Assigment26/result/rotate.jpg)
 # **first_name**
-![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/first_name_2.jpg)
+![screen shot](https://github.com/Zahra-jafari-2024/Image-Processing/blob/main/Assigment26/result/first_name.jpg)
 # **Generate**
-![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/Generate.jpg)
+![screen shot](https://github.com/Zahra-jafari-2024/Image-Processing/blob/main/Assigment26/result/Generate.jpg)
 # **Death symbol**
-![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/death_symbol.jpg)
+![screen shot](https://github.com/Zahra-jafari-2024/Image-Processing/blob/main/Assigment26/result/death_symbol.jpg)
