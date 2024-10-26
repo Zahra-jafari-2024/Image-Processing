@@ -6,7 +6,6 @@
 ![screen shot](https://github.com/Zahra-jafari-2024/Image-Processing/blob/main/Assigment26/result/chess.jpg)
 # **dark and light color**
 ![screen shot](https://github.com/Zahra-jafari-2024/Image-Processing/blob/main/Assigment26/result/invert1.jpg) 
-![screen shot](https://github.com/Zahra-jafari-2024/Image-Processing/blob/main/Assigment26/result/invert2.jpg) 
 # **Rotate the image 180**
 ![screen shot](https://github.com/Zahra-jafari-2024/Image-Processing/blob/main/Assigment26/result/rotate.jpg)
 # **first_name**
