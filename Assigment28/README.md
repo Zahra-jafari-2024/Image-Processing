@@ -1,16 +1,16 @@
 # Face emoji
-<img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment23/Result/face_emoji.png' width='300'>
+<img src='https://github.com/Zahra-jafari-2024/Image-Processing/blob/main/Assigment28/output/sticker.jpg' width='300'>
 
 # Eyes , lips
 
-<img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment23/Result/eyes_lips.png' width='300'>
+<img src='https://github.com/Zahra-jafari-2024/Image-Processing/blob/main/Assigment28/output/eye_lip.jpg' width='300'>
 
 
-# Pixelate
+# Chess-board face
 
-<img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment23/Result/pixelate.png' width='300'>
+<img src='https://github.com/Zahra-jafari-2024/Image-Processing/blob/main/Assigment28/output/Chess-board.jpg' width='300'>
 
 
-# Flip
+# mirror
 
-<img src='https://github.com/Parisa-Bagherzadeh/Image_processing/blob/main/Assignment23/Result/flip.jpg ' width='300'>
+<img src='https://github.com/Zahra-jafari-2024/Image-Processing/blob/main/Assigment28/output/mirror.jpg' width='300'>
